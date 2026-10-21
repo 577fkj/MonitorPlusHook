@@ -1,0 +1,9 @@
+Package: cn.fkj233.monitorplushook
+Name: MonitorPlusHook
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Description: Unlock MonitorPlus Pro
+Maintainer: 577fkj
+Author: 577fkj
+Section: Tweaks
